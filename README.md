@@ -7,8 +7,8 @@ This project is a JS FullCalendar Scheduler application with a server for perfor
 To get started you need to clone the repository and navigate into the folder.
 
 ```sh
-git clone https://github.com/ritza-co/fullcalendar-scheduler-starter fullcalendar-scheduler
-cd fullcalendar-scheduler
+git clone https://github.com/bryntum/fullcalendar-scheduler-starter fullcalendar-scheduler
+cd fullcalendar-scheduler-starter
 ```
 
 ## Installing
